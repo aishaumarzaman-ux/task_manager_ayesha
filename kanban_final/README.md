@@ -4,22 +4,22 @@ A fully responsive Kanban-style task management board built with pure HTML5, CSS
 
 ## Live Demo
 
-🔗 [Click here to view the live demo](https://rococo-cannoli-cd79da.netlify.app/)
+🔗 [Click here to view the live demo](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
 
 ## Video Walkthrough
 
-🎥 [Watch the 5-minute walkthrough ](https://www.loom.com/share/9d039702453541d6bca4b80ed6d20c03)
+🎥 [Watch the 5-minute walkthrough on YouTube](PASTE_YOUR_YOUTUBE_LINK_HERE)
 
 ## Screenshots
 
 ### Desktop Board
-![Desktop Board](screenshots/screenshot-desktop.png)
+![Desktop Board](screenshot-desktop.png)
 
 ### Mobile Tab View
-![Mobile View](screenshots/screenshot_mobile.png)
+![Mobile View](screenshot-mobile.png)
 
 ### Task Modal Open
-![Task Modal](screenshots/screenshot_modal.png)
+![Task Modal](screenshot-modal.png)
 
 ## Features
 
