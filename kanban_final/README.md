@@ -4,7 +4,7 @@ A fully responsive Kanban-style task management board built with pure HTML5, CSS
 
 ## Live Demo
 
-🔗 [Click here to view the live demo](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)
+🔗 [Click here to view the live demo](https://rococo-cannoli-cd79da.netlify.app/)
 
 ## Video Walkthrough
 
