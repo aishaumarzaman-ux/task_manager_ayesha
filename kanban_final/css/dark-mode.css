@@ -1,0 +1,55 @@
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111313;
+  --surface: #1b2024;
+  --surface-soft: #242b31;
+  --text: #f2f5f7;
+  --muted: #b4bdc7;
+  --border: #3a4650;
+  --primary: #3aa8bb;
+  --primary-dark: #2b8999;
+  --danger: #ff6969;
+  --warning: #e7b949;
+  --success: #57c785;
+  --shadow: 0 16px 40px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme="dark"] .priority-high {
+  background: #5a1d24;
+  color: #ffd9dd;
+}
+
+html[data-theme="dark"] .priority-medium {
+  background: #4c3b14;
+  color: #ffe7a1;
+}
+
+html[data-theme="dark"] .priority-low {
+  background: #173d28;
+  color: #c8f8da;
+}
+
+/* ── Dark mode column accent colours ── */
+html[data-theme="dark"] .kanban-column[data-column="todo"] {
+  border-top-color: #60a5fa;
+}
+
+html[data-theme="dark"] .kanban-column[data-column="inprogress"] {
+  border-top-color: #fbbf24;
+}
+
+html[data-theme="dark"] .kanban-column[data-column="done"] {
+  border-top-color: #34d399;
+}
+
+html[data-theme="dark"] .kanban-column[data-column="todo"] .count-badge {
+  color: #60a5fa;
+}
+
+html[data-theme="dark"] .kanban-column[data-column="inprogress"] .count-badge {
+  color: #fbbf24;
+}
+
+html[data-theme="dark"] .kanban-column[data-column="done"] .count-badge {
+  color: #34d399;
+}
