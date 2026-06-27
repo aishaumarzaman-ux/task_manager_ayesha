@@ -13,13 +13,13 @@ A fully responsive Kanban-style task management board built with pure HTML5, CSS
 ## Screenshots
 
 ### Desktop Board
-![Desktop Board](screenshots/screenshot-desktop.png)
+![Desktop Board](kanban_final/screenshots/screenshot-desktop.png)
 
 ### Mobile Tab View
-![Mobile View](screenshots/screenshot_mobile.png)
+![Mobile View](kanban_final/screenshots/screenshot_mobile.png)
 
 ### Task Modal Open
-![Task Modal](screenshot_modal.png)
+![Task Modal](screenshots/screenshot_modal.png)
 
 ## Features
 
