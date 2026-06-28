@@ -8,7 +8,7 @@ A fully responsive Kanban-style task management board built with pure HTML5, CSS
 
 ## Video Walkthrough
 
-🎥 [Watch the 5-minute walkthrough ](https://www.loom.com/share/9d039702453541d6bca4b80ed6d20c03)
+🎥 [Watch the 5-minute walkthrough ](https://www.loom.com/share/656851f783ac4883932b11af28de2b68)
 
 ## Screenshots
 
